@@ -28,10 +28,10 @@ def sum(a,b)
 end
 sum 10,20
 
-class First
-	puts "hello word"
-end
-f1 = First.new
+# class First
+# 	puts "hello word"
+# end
+# f1 = First.new
 
 a =4
 b =5
